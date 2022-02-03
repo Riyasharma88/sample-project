@@ -1,2 +1,2 @@
-var code = "programming";
-var name = "Riya sharma";
+var code = "laerning javascript";
+var name = "Riya";
